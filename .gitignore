@@ -1,0 +1,26 @@
+# Unity - archivos generados
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+[Bb]uild/
+[Bb]uilds/
+[Uu]ser[Ss]ettings/
+
+# Visual Studio y editores
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.slnx
+*.suo
+*.user
+
+# Archivos internos y documentacion de clase
+/AGENTS.md
+/Documentacion_TC2008B/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
