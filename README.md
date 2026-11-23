@@ -56,8 +56,17 @@ https://sketchfab.com/3d-models/paintball-marker-spyder-mr-100-f1d0ead2296b4f16b
 
 Miracle3 Judy. Paintball Gun, distribución en Fab.
 https://www.fab.com/listings/820a9d1a-e3c2-4cd5-bf34-4885e2fbf43d
+Paintball Gun — Modelo original Paintball Marker Spyder MR 100 creado por olgasardykova.
 
-La licencia aplicable a la copia distribuida en Fab debe verificarse antes de redistribuir el archivo.
+Fuente: https://sketchfab.com/3d-models/paintball-marker-spyder-mr-100-f1d0ead2296b4f16b8d3f957c16ac8d2
+
+Distribuido en Fab por Miracle3 Judy.
+
+Licencia: Creative Commons Attribution (CC BY).
+
+Modificaciones: integración y adaptación al proyecto Unity.
+
+
 
 ## Uso de inteligencia artificial
 
